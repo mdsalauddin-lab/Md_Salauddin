@@ -27,6 +27,10 @@ I constantly back my domain expertise with rigorous global certifications from t
 *   **Microsoft / Logical Operations** – *Power BI Data Analysis Professional Specialization* (Data Modeling, Advanced Analytics, Dashboard Optimization, and Collaboration).
 *   **Academic:** Current **MBA Candidate** at an Elite University in China, aligning business management with technical scalability.
 
+*   **Unilever** – [Supply Chain Data Analyst Professional Certificate](https://coursera.org/verify/professional-cert/TTDQTPTG5LF9) (Focused on Supply Chain Management, Data Analytics, and Industry Software Tools).
+*   **IBM** – [Machine Learning Professional Certificate](https://coursera.org/verify/professional-cert/IR0CQ3WSY2SV) (Advanced Regression, Classification, Time-Series Analysis, and Deep Learning).
+*   **IBM** – [Data Science Professional Certificate](https://coursera.org/verify/professional-cert/XYXTD2I6XXBS) (Python programming, SQL databases, Applied Data Science Capstone, and Generative AI).
+*   **Microsoft / Logical Operations** – [Power BI Data Analysis Professional Specialization](https://coursera.org/verify/specialization/47AO3KHOWY8E) (Data Modeling, Advanced Analytics, Dashboard Optimization, and Collaboration).
 ---
 
 ## 🛠️ Technical Ecosystem
